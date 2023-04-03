@@ -14,3 +14,13 @@
     margin: auto;
     margin-top: 5px;
 }
+
+.box-3{
+    height: 200px;
+    width: 300px;
+    background-color: purple;
+    border: 3px solid black;
+    margin: auto;
+    margin-top: 5px;
+
+}
