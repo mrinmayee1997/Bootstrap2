@@ -9,7 +9,8 @@
 .box-2{
     height: 300px;
     width: 300px;
-    background-color: pink;
+    background-color: deeppink;
     border: 5px solid black;
     margin: auto;
+    margin-top: 5px;
 }
